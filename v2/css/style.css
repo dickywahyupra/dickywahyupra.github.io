@@ -81,6 +81,7 @@ body {
 }
 
 #about {
+  background: red;
 }
 
 @media only screen and (max-width: 990px) {
